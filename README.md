@@ -1,3 +1,5 @@
+![](https://github.com/storyblok/qwik-5-min-tutorial/assets/36744484/427bea9e-7498-4484-acb6-d78be811be4e)
+
 # Storyblok 5-minute Qwik starter
 
 > This template should help get you started developing a headless app using [Storyblok JS SDK](https://github.com/storyblok/storyblok-js), Qwik in Vite.
